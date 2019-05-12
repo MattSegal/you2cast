@@ -1,0 +1,21 @@
+# Python
+*.pyc
+env/
+output/
+
+# Audio
+*.mp3
+
+# Project
+*secret*
+
+# Docker
+.env
+
+# Random crap
+*.sqlite3
+*.log
+*.retry
+*.pid
+*.db
+*.vscode

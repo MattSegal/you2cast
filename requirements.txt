@@ -1,0 +1,9 @@
+# Document generation
+feedgen
+pyyaml
+
+# File storage
+boto3
+
+# YouTube
+youtube-dl
